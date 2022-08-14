@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.app",
+  "appName": "sveltekit-cuepra",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
