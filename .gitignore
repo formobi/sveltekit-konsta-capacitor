@@ -3,6 +3,7 @@
 # dependencies
 /node_modules
 /.pnp
+/.svelte-kit
 .pnp.js
 
 # testing
