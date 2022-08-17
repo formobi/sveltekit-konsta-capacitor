@@ -1,4 +1,4 @@
-#create-svelte
+#Attempting to create sveltekit based mobile application using konstaui(+tailwindcss), capacitorjs and sveltekit. Using adapter-static for prerendered pages.
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
